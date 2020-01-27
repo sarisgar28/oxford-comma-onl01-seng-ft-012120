@@ -3,8 +3,5 @@ def oxford_comma(array)
  # join the string element together.
  #... Display them
  string_value = items.join ("")
- 
-  
-  
-
+ puts string_value
 end
