@@ -1,4 +1,5 @@
 def oxford_comma(array)
-  ["english", "united nations",]
+  ["english", "united nations","little John"] .join 
+  => 
 
 end
