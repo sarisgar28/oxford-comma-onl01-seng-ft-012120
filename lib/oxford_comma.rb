@@ -1,7 +1,7 @@
 def oxford_comma(array)
-  ["english", "united nations","little John"] .join 
- puts  "english"
- 
+ my_oxford_comma = ["english", "united nations","little John".join]  
+ puts  ("")
+ =>
   
   
 
