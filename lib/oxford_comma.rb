@@ -3,4 +3,6 @@ def oxford_comma(array)
  items.join {"0","2"}
 puts .join
 counter += "0,2" 
+return 
+counter = "0"
 end
